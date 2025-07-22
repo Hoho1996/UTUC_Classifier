@@ -102,4 +102,4 @@ result.to_csv("prediction_result.txt", sep="\t", index=False)
 
 ## FAQ
 
-For questions, please contact the
+For questions, please contact the project maintainer.
